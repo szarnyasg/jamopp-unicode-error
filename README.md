@@ -1,0 +1,1 @@
+# jamopp-unicode-error
